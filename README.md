@@ -12,4 +12,4 @@ https://ekaputri1982.shinyapps.io/renni_finance/  </br>
 click SUBMIT button for graph.
 
 E-mail: renniekaputri15@gmail.com </br>
-WA/Phone: +62-81905146181 (Indonesia)
+WA/Phone: +62-81905146181
