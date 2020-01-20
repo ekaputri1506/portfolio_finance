@@ -11,5 +11,5 @@ I designed and created this analysis using R Language.
 https://ekaputri1982.shinyapps.io/renni_finance/  </br>
 click SUBMIT button for graph.
 
-E-mail: renniekaputri15@gmail.com </br>
-WA/Phone: +62-81905146181
+E-mail: renniekaputri1982@gmail.com </br>
+
